@@ -1,0 +1,28 @@
+English 
+
+In the root directory of the project, the ".env" file is responsible for connecting to the database
+
+The "routes" folder contains routing files (we're mainly interested in the "web.php" file)
+
+app / Controllers / WspolrzedneController.php "-> in this file we find our controller
+
+database / migrations / 2018_08_16_093249_create_wspolrzednes_table -> this is a tabli migration file "wspolrzednes" to our database
+
+resources / vievs / -> there are "create.blade.php", "edit.blade.php", "index.blade.php" files, these are the front-end views of our project
+
+----------------------------------------------------------------------------------------------
+
+Polski
+
+W katalogu głównym projektu znajduję się plik ".env" odpowiada od za połączenie z bazą danych
+
+Folder "routes" zawiera pliki routingu (interesuję nas głównie plik "web.php")
+
+app/Controllers/WspolrzedneController.php" -> w tym pliku znajduję się nasz controller
+
+database/migrations/2018_08_16_093249_create_wspolrzednes_table  ->  jest to plik migracji tabli "wspolrzednes" do naszej bazy danych
+
+resources/vievs/ -> znajdują się tam pliki "create.blade.php", "edit.blade.php", "index.blade.php" są to widoki (front-end) naszego projektu
+
+
+
